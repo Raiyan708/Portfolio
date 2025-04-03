@@ -1,7 +1,7 @@
 # 🚀 Portfolio Website
 
 ### **Live Demo** 🌐
-[![Portfolio](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://itsmeraiyan-a24fm8.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://https://itsmeraiyan.vercel.app//)
 
 This is my personal portfolio website built using **V0.dev** and deployed on **Vercel**.
 
