@@ -54,7 +54,7 @@ export default function Projects() {
       ],
     },
     {
-      title: "Predictive Stock Analysis",
+      title: "Care IAS",
       description:
         "Developed a stock price prediction system using LSTM neural networks and technical indicators. Features real-time data fetching, backtesting capabilities, and interactive visualizations.",
       image: "/placeholder.svg?height=600&width=800",
