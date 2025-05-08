@@ -57,7 +57,7 @@ export default function Projects() {
       title: "Care IAS",
       description:
         "Care IAS is a UPSC coaching institute based in Aligarh. This is the official website, built using Next.js and Tailwind CSS. I manage the complete technical stack and deployment.",
-      image: "/placeholder.svg?height=600&width=800",
+      image: "/CareIASdemophoto.png",
       tags: ["Next.jS", "TailwindCSS", "ReactJS", "Typescript", "MySql"],
       githubUrl: "https://github.com/Raiyan708/CareIAS",
       demoUrl: "https://www.careias.com/",
