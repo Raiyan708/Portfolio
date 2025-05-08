@@ -45,7 +45,7 @@ export default function Projects() {
       image: "/BlockAuthdemo2.png",
       tags: ["Javascript", "React.js", "MongoDB", "Chart.js", "Node.js", "Epress", "Truffle", "Ganache"],
       githubUrl: "https://github.com/Raiyan708/BlockAuth",
-      demoUrl: "https://v0-blockchain-ui-design-kappa.vercel.app/",
+      demoUrl: "https://blockauth.vercel.app/",
       highlights: [
         "Developed a decentralized fake product identification system using Ethereum blockchain, ensuring product authenticity.",
         "Designed and deployed smart contracts in Solidity to securely store and verify product provenance.",
