@@ -54,18 +54,18 @@ export default function Projects() {
       ],
     },
     {
-      title: "Predictive Stock Analysis",
+      title: "Care IAS",
       description:
-        "Developed a stock price prediction system using LSTM neural networks and technical indicators. Features real-time data fetching, backtesting capabilities, and interactive visualizations.",
+        "Care IAS is a UPSC coaching institute based in Aligarh. This is the official website, built using Next.js and Tailwind CSS. I manage the complete technical stack and deployment.",
       image: "/placeholder.svg?height=600&width=800",
-      tags: ["Python", "TensorFlow", "LSTM", "Pandas", "Yahoo Finance API", "Plotly"],
-      githubUrl: "https://github.com/Raiyan708/stock-predictor",
-      demoUrl: "#",
+      tags: ["Next.jS", "TailwindCSS", "ReactJS", "Typescript", "MySql"],
+      githubUrl: "https://github.com/Raiyan708/CareIAS",
+      demoUrl: "https://www.careias.com/",
       highlights: [
-        "LSTM model with technical indicators for price prediction",
-        "Backtesting framework to evaluate strategies",
-        "Interactive charts with Plotly for trend analysis",
-        "Automated data pipeline for real-time updates",
+        "Developed a responsive and SEO-optimized frontend using Next.js and Tailwind CSS to showcase institute services and updates.",
+        "Integrated dynamic routes and reusable components for streamlined content management and future scalability.",
+        "Deployed on Vercel with a custom domain and secure HTTPS configuration for fast global access.",
+        "Designed intuitive navigation and call-to-actions for enrollment, login, and contact workflows, ready for backend integration.",
       ],
     },
   ]
