@@ -118,7 +118,7 @@ export default function Resume() {
             machine learning.
           </p>
           <Button asChild className="bg-primary hover:bg-primary/90">
-            <a href="https://drive.google.com/file/d/1mnC_90fvKwXuqEyp0QJlb6dAvywbRbCb/view?usp=sharing" className="flex items-center gap-2" target="_blank" 
+            <a href="https://drive.google.com/file/d/1ZEcTEU7Nw-BLljrBYC7ZNVLcnUk_dhCN/view?usp=sharing" className="flex items-center gap-2" target="_blank" 
     rel="noopener noreferrer" >
               <Download className="h-4 w-4" />
               Download Resume
